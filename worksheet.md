@@ -15,8 +15,8 @@ And answer the following questions about them:
   * Who made the last commit to repository A? Matthew Roberts
   * Who made the first commit to repository A? Jon Mountjoy
   * Who made the first and last commits to repository B? Dave Pearce
-  * Are either/both of these projects active at the moment? 🤔 If not, what do you think happened? Neither are active currently.
-  * 🤔 Which file in each project has had the most activity?
+  * Are either/both of these projects active at the moment? 🤔 If not, what do you think happened? Neither are active currently. Maybe the project is finished or no longer needed
+  * 🤔 Which file in each project has had the most activity? 
 
 # Task 2
 
